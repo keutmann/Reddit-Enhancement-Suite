@@ -117,7 +117,7 @@
     "lodash-webpack-plugin": "0.11.5",
     "manifoldjs": "0.7.6",
     "nightwatch": "0.9.20",
-    "node-sass": "4.8.3",
+    "node-sass": "^4.9.0",
     "nyc": "11.6.0",
     "opera-extension-deploy": "0.2.3",
     "postcss-loader": "2.1.3",
