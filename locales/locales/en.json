@@ -1656,6 +1656,26 @@
 	"userTaggerDesc": {
 		"message": "Adds a great deal of customization around users - tagging them, ignoring them, and more. You can manage tagged users on [Manage User Tags](/r/Dashboard/#userTaggerContents).\n\n**Ignoring users:** users will *not* be ignored in modmail, moderation queue or your inbox."
 	},
+
+	"trustName": {
+		"message": "Trust"
+	},
+	"trustDesc": {
+		"message": "Enabling trust around users - trusting them, ignoring them, and more. You can manage trusted users on [Manage User Trust](/r/Dashboard/#trustContents)."
+	},
+	"trustRemoteServiceTitle": {
+		"message": "Trust Service"
+	},
+	"trustRemoteServiceDesc": {
+		"message": "The service handling trust."
+	},
+	"trustHideDistrustTitle": {
+		"message": "Hide Distrust"
+	},
+	"trustHideDistrustDesc": {
+		"message": "Hiding content of entities that has been distrusted."
+	},
+
 	"versionName": {
 		"message": "Version Manager"
 	},

@@ -1,7 +1,7 @@
 {
   "title": "Reddit Enhancement Suite",
   "name": "reddit-enhancement-suite",
-  "version": "5.12.2",
+  "version": "5.12.3",
   "description": "A suite of modules that enhance your Reddit browsing experience",
   "author": "Reddit Enhancement Suite contributors",
   "license": "GPL-3.0",
@@ -79,6 +79,7 @@
   "devDependencies": {
     "autoprefixer": "8.2.0",
     "ava": "0.25.0",
+    "babel-cli": "^6.26.0",
     "babel-core": "6.26.0",
     "babel-eslint": "8.2.3",
     "babel-loader": "7.1.4",
@@ -90,6 +91,7 @@
     "babel-plugin-transform-export-extensions": "6.22.0",
     "babel-plugin-transform-flow-strip-types": "6.22.0",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
+    "babel-preset-flow": "^6.23.0",
     "chrome-extension-deploy": "3.0.0",
     "coveralls": "3.0.0",
     "cross-env": "5.1.4",
